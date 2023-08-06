@@ -1,5 +1,5 @@
-# moharej
-# soulaimane haddach
+# Moharej
+# Soulaimane haddach
 Python car game
 # HOW TO USE?
 

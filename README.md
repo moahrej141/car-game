@@ -10,4 +10,4 @@ Python car game
 - [4] Make sure you have extensions (Code Runner) in your VC.
 - [5] Run the game
 
-* 'Enjoy!'
+* Enjoy!
